@@ -1,3 +1,6 @@
+# toy_app
+A toy demo app for the ruby on rails tutorial
+
 # README
 
 This README would normally document whatever steps are necessary to get the
